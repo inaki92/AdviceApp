@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/search"
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search_black_24dp"/>
+
+    <item
+        android:id="@+id/nav_random"
+        android:title="@string/random_quote"
+        android:icon="@drawable/ic_format_quote_black_24dp"/>
+
+    <item
+        android:id="@+id/nav_game"
+        android:title="@string/play_any_number"
+        android:icon="@drawable/ic_videogame_asset_black_24dp"/>
+
+</menu>
